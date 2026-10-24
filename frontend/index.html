@@ -1,0 +1,2412 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="UTF-8">
+
+    <meta
+        name="viewport"
+        content="width=device-width, initial-scale=1.0"
+    >
+
+    <meta
+        name="description"
+        content="Tamil Nadu TollNet - Traffic, Revenue and ML Insights"
+    >
+
+    <title>
+        Tamil Nadu TollNet
+    </title>
+
+
+    <!-- Main CSS -->
+
+    <link
+        rel="stylesheet"
+        href="style.css"
+    >
+
+</head>
+
+
+<body>
+
+
+    <!-- =====================================================
+         MAIN APPLICATION
+    ====================================================== -->
+
+    <div
+        id="app"
+        class="app"
+    >
+
+
+        <!-- =================================================
+             HERO / HOME
+        ================================================== -->
+
+        <section
+            id="home"
+            class="hero-section"
+        >
+
+
+            <!-- BACKGROUND -->
+
+            <div class="hero-background"></div>
+
+            <div class="hero-overlay"></div>
+
+
+            <!-- =================================================
+                 TOP NAVIGATION
+            ================================================== -->
+
+            <header class="top-navigation">
+
+
+                <!-- BRAND -->
+
+                <div
+                    class="brand-container"
+                    id="home-link"
+                >
+
+                    <div class="brand-logo">
+
+                        <div class="road-mark">
+
+                            <span></span>
+                            <span></span>
+                            <span></span>
+
+                        </div>
+
+                    </div>
+
+
+                    <div class="brand-text">
+
+                        <div class="brand-title">
+
+                            Tamil Nadu
+
+                            <span>
+                                TollNet
+                            </span>
+
+                        </div>
+
+
+                        <div class="brand-subtitle">
+
+                            TRAFFIC
+
+                            <span>•</span>
+
+                            REVENUE
+
+                            <span>•</span>
+
+                            INSIGHTS
+
+                        </div>
+
+                    </div>
+
+                </div>
+
+
+                <!-- =================================================
+                     MAIN NAVIGATION
+                ================================================== -->
+
+                <nav class="main-navigation">
+
+
+                    <button
+                        type="button"
+                        class="nav-button"
+                        data-section="analysis"
+                    >
+
+                        <span class="nav-icon">
+                            ▥
+                        </span>
+
+                        <span>
+                            ANALYSIS
+                        </span>
+
+                    </button>
+
+
+                    <button
+                        type="button"
+                        class="nav-button"
+                        data-section="comparison"
+                    >
+
+                        <span class="nav-icon">
+                            ⚖
+                        </span>
+
+                        <span>
+                            COMPARISON
+                        </span>
+
+                    </button>
+
+
+                    <button
+                        type="button"
+                        class="nav-button"
+                        data-section="prediction"
+                    >
+
+                        <span class="nav-icon">
+                            ↗
+                        </span>
+
+                        <span>
+                            PREDICTION
+                        </span>
+
+                    </button>
+
+
+                    <button
+                        type="button"
+                        class="nav-button"
+                        data-section="model-comparison"
+                    >
+
+                        <span class="nav-icon">
+                            ▦
+                        </span>
+
+                        <span>
+                            MODEL COMPARISON
+                        </span>
+
+                    </button>
+
+
+                </nav>
+
+
+                <!-- SYSTEM STATUS -->
+
+                <div class="system-status">
+
+                    <span class="status-indicator"></span>
+
+                    <span>
+                        LIVE
+                    </span>
+
+                </div>
+
+
+            </header>
+
+
+            <!-- =================================================
+                 HERO CONTENT
+            ================================================== -->
+
+            <div class="hero-content">
+
+
+                <div class="hero-copy">
+
+
+                    <div class="hero-kicker">
+
+                        TAMIL NADU TOLLNET
+
+                    </div>
+
+
+                    <h1>
+
+                        Smarter
+
+                        <span>
+                            Toll Insights
+                        </span>
+
+                        for a Connected
+
+                        <strong>
+                            Tamil Nadu
+                        </strong>
+
+                    </h1>
+
+
+                    <div class="hero-line"></div>
+
+
+                    <p class="hero-description">
+
+                        Explore traffic patterns, analyze revenue,
+                        compare toll plazas and forecast what's next
+                        using data-driven insights.
+
+                    </p>
+
+
+                    <button
+                        type="button"
+                        id="explore-button"
+                        class="hero-button"
+                    >
+
+                        <span>
+                            Explore Dashboard
+                        </span>
+
+                        <span class="button-arrow">
+                            →
+                        </span>
+
+                    </button>
+
+
+                    <!-- =================================================
+                         HERO STATS
+                    ================================================== -->
+
+                    <div class="hero-stats">
+
+
+                        <div class="hero-stat">
+
+                            <div class="stat-icon">
+                                ◈
+                            </div>
+
+                            <div>
+
+                                <strong>
+                                    88
+                                </strong>
+
+                                <span>
+                                    Toll Plazas
+                                </span>
+
+                            </div>
+
+                        </div>
+
+
+                        <div class="stat-divider"></div>
+
+
+                        <div class="hero-stat">
+
+                            <div class="stat-icon">
+                                ◫
+                            </div>
+
+                            <div>
+
+                                <strong>
+                                    5 Years
+                                </strong>
+
+                                <span>
+                                    Data Coverage
+                                </span>
+
+                            </div>
+
+                        </div>
+
+
+                        <div class="stat-divider"></div>
+
+
+                        <div class="hero-stat">
+
+                            <div class="stat-icon">
+                                ◉
+                            </div>
+
+                            <div>
+
+                                <strong>
+                                    Tamil Nadu
+                                </strong>
+
+                                <span>
+                                    Statewide Insights
+                                </span>
+
+                            </div>
+
+                        </div>
+
+
+                    </div>
+
+
+                </div>
+
+
+            </div>
+
+
+            <!-- =================================================
+                 BOTTOM FEATURE CARDS
+            ================================================== -->
+
+            <div class="feature-cards">
+
+
+                <!-- ANALYSIS -->
+
+                <button
+                    type="button"
+                    class="feature-card analysis-card"
+                    data-section="analysis"
+                >
+
+                    <div class="feature-icon">
+                        ▥
+                    </div>
+
+
+                    <div class="feature-content">
+
+                        <h3>
+                            Analysis
+                        </h3>
+
+                        <p>
+                            Explore traffic, revenue and
+                            vehicle patterns across
+                            Tamil Nadu toll plazas.
+                        </p>
+
+                    </div>
+
+
+                    <div class="feature-arrow">
+                        →
+                    </div>
+
+                </button>
+
+
+                <!-- COMPARISON -->
+
+                <button
+                    type="button"
+                    class="feature-card comparison-card"
+                    data-section="comparison"
+                >
+
+                    <div class="feature-icon">
+                        ⚖
+                    </div>
+
+
+                    <div class="feature-content">
+
+                        <h3>
+                            Comparison
+                        </h3>
+
+                        <p>
+                            Compare multiple toll plazas,
+                            categories and periods.
+                        </p>
+
+                    </div>
+
+
+                    <div class="feature-arrow">
+                        →
+                    </div>
+
+                </button>
+
+
+                <!-- PREDICTION -->
+
+                <button
+                    type="button"
+                    class="feature-card prediction-card"
+                    data-section="prediction"
+                >
+
+                    <div class="feature-icon">
+                        ↗
+                    </div>
+
+
+                    <div class="feature-content">
+
+                        <h3>
+                            Prediction
+                        </h3>
+
+                        <p>
+                            Forecast traffic or revenue
+                            for a selected future month.
+                        </p>
+
+                    </div>
+
+
+                    <div class="feature-arrow">
+                        →
+                    </div>
+
+                </button>
+
+
+                <!-- MODEL COMPARISON -->
+
+                <button
+                    type="button"
+                    class="feature-card model-card"
+                    data-section="model-comparison"
+                >
+
+                    <div class="feature-icon">
+                        ▦
+                    </div>
+
+
+                    <div class="feature-content">
+
+                        <h3>
+                            Model Comparison
+                        </h3>
+
+                        <p>
+                            Compare XGBoost, LightGBM
+                            and Random Forest.
+                        </p>
+
+                    </div>
+
+
+                    <div class="feature-arrow">
+                        →
+                    </div>
+
+                </button>
+
+
+            </div>
+
+
+            <!-- =================================================
+                 SCROLL INDICATOR
+            ================================================== -->
+
+            <div class="scroll-indicator">
+
+                <div class="mouse-icon">
+                    <span></span>
+                </div>
+
+                <span>
+                    SCROLL TO EXPLORE
+                </span>
+
+                <div class="scroll-arrow">
+                    ↓
+                </div>
+
+            </div>
+
+
+        </section>
+
+
+        <!-- =================================================
+             ANALYSIS SECTION START
+        ================================================== -->
+
+        <section
+            id="analysis"
+            class="dashboard-section"
+        >
+
+
+            <div class="section-background"></div>
+
+
+            <div class="dashboard-container">
+
+
+                <!-- SECTION HEADER -->
+
+                <div class="section-header">
+
+                    <span class="section-kicker">
+                        DATA EXPLORATION
+                    </span>
+
+                    <h2>
+                        Toll Plaza Analysis
+                    </h2>
+
+                    <p>
+                        Explore traffic, revenue and vehicle
+                        patterns across Tamil Nadu.
+                    </p>
+
+                </div>
+
+
+                <!-- =================================================
+                     FILTER PANEL
+                ================================================== -->
+
+                <div class="glass-panel filter-panel">
+
+
+                    <div class="panel-heading">
+
+                        <div>
+
+                            <span>
+                                ANALYSIS FILTERS
+                            </span>
+
+                            <p>
+                                Select your data parameters
+                            </p>
+
+                        </div>
+
+                    </div>
+
+
+                    <div class="filter-grid">
+
+
+                        <!-- TOLL PLAZA -->
+
+                        <div class="filter-field plaza-field">
+
+                            <label>
+                                Toll Plaza
+                            </label>
+
+
+                            <div class="search-wrapper">
+
+
+                                <div class="search-input-wrapper">
+
+                                    <span>
+                                        🔍
+                                    </span>
+
+                                    <input
+                                        type="text"
+                                        id="analysis-plaza-search"
+                                        placeholder="Search toll plaza..."
+                                        autocomplete="off"
+                                    >
+
+                                </div>
+
+
+                                <div
+                                    id="analysis-plaza-results"
+                                    class="search-results"
+                                ></div>
+
+
+                                <div
+                                    id="analysis-selected-plazas"
+                                    class="selected-plazas"
+                                ></div>
+
+
+                            </div>
+
+                        </div>
+
+
+                        <!-- YEAR -->
+
+                        <div class="filter-field">
+
+                            <label>
+                                Year
+                            </label>
+
+                            <select
+                                id="analysis-year"
+                            >
+
+                                <option value="all">
+                                    All Years
+                                </option>
+
+                                <option value="2022">
+                                    2022
+                                </option>
+
+                                <option value="2023">
+                                    2023
+                                </option>
+
+                                <option value="2024">
+                                    2024
+                                </option>
+
+                                <option value="2025">
+                                    2025
+                                </option>
+
+                                <option value="2026">
+                                    2026 (YTD)
+                                </option>
+
+                            </select>
+
+                        </div>
+
+
+                        <!-- MONTH -->
+
+                        <div class="filter-field">
+
+                            <label>
+                                Month
+                            </label>
+
+                            <select
+                                id="analysis-month"
+                            >
+
+                                <option value="all">
+                                    All Months
+                                </option>
+
+                                <option value="1">
+                                    January
+                                </option>
+
+                                <option value="2">
+                                    February
+                                </option>
+
+                                <option value="3">
+                                    March
+                                </option>
+
+                                <option value="4">
+                                    April
+                                </option>
+
+                                <option value="5">
+                                    May
+                                </option>
+
+                                <option value="6">
+                                    June
+                                </option>
+
+                                <option value="7">
+                                    July
+                                </option>
+
+                                <option value="8">
+                                    August
+                                </option>
+
+                                <option value="9">
+                                    September
+                                </option>
+
+                                <option value="10">
+                                    October
+                                </option>
+
+                                <option value="11">
+                                    November
+                                </option>
+
+                                <option value="12">
+                                    December
+                                </option>
+
+                            </select>
+
+                        </div>
+
+
+                        <!-- VEHICLE CATEGORY -->
+
+                        <div class="filter-field">
+
+                            <label>
+                                Vehicle Category
+                            </label>
+
+
+                            <div
+                                class="multi-select"
+                                id="analysis-category-select"
+                            >
+
+
+                                <button
+                                    type="button"
+                                    class="multi-select-button"
+                                >
+
+                                    <span>
+                                        All Categories
+                                    </span>
+
+                                    <span>
+                                        ▾
+                                    </span>
+
+                                </button>
+
+
+                                <div class="multi-select-dropdown">
+
+
+                                    <label>
+
+                                        <input
+                                            type="checkbox"
+                                            value="CAR_JEEP"
+                                            checked
+                                        >
+
+                                        <span>
+                                            Car / Jeep
+                                        </span>
+
+                                    </label>
+
+
+                                    <label>
+
+                                        <input
+                                            type="checkbox"
+                                            value="LCV"
+                                            checked
+                                        >
+
+                                        <span>
+                                            LCV
+                                        </span>
+
+                                    </label>
+
+
+                                    <label>
+
+                                        <input
+                                            type="checkbox"
+                                            value="BUS_TRUCK"
+                                            checked
+                                        >
+
+                                        <span>
+                                            Bus / Truck
+                                        </span>
+
+                                    </label>
+
+
+                                    <label>
+
+                                        <input
+                                            type="checkbox"
+                                            value="3_AXLE"
+                                            checked
+                                        >
+
+                                        <span>
+                                            3-Axle
+                                        </span>
+
+                                    </label>
+
+
+                                    <label>
+
+                                        <input
+                                            type="checkbox"
+                                            value="4_6_AXLE"
+                                            checked
+                                        >
+
+                                        <span>
+                                            4–6 Axle
+                                        </span>
+
+                                    </label>
+
+
+                                    <label>
+
+                                        <input
+                                            type="checkbox"
+                                            value="OSV"
+                                            checked
+                                        >
+
+                                        <span>
+                                            OSV
+                                        </span>
+
+                                    </label>
+
+
+                                    <div class="dropdown-actions">
+
+                                        <button
+                                            type="button"
+                                            id="analysis-category-all"
+                                        >
+                                            Select All
+                                        </button>
+
+                                        <button
+                                            type="button"
+                                            id="analysis-category-none"
+                                        >
+                                            Clear
+                                        </button>
+
+                                    </div>
+
+
+                                </div>
+
+                            </div>
+
+                        </div>
+
+
+                    </div>
+
+
+                    <!-- ANALYZE BUTTON -->
+
+                    <div class="panel-actions">
+
+                        <button
+                            type="button"
+                            id="analysis-button"
+                            class="primary-action"
+                        >
+
+                            <span>
+                                ANALYZE
+                            </span>
+
+                            <span>
+                                →
+                            </span>
+
+                        </button>
+
+                    </div>
+
+
+                </div>
+
+
+                <!-- =================================================
+                     KPI CARDS
+                ================================================== -->
+
+                <div class="kpi-grid">
+
+
+                    <div class="kpi-card">
+
+                        <span class="kpi-label">
+                            TOTAL TRAFFIC
+                        </span>
+
+                        <strong
+                            id="analysis-total-traffic"
+                        >
+                            —
+                        </strong>
+
+                        <span>
+                            Vehicles
+                        </span>
+
+                    </div>
+
+
+                    <div class="kpi-card">
+
+                        <span class="kpi-label">
+                            TOTAL REVENUE
+                        </span>
+
+                        <strong
+                            id="analysis-total-revenue"
+                        >
+                            —
+                        </strong>
+
+                        <span>
+                            Toll Revenue
+                        </span>
+
+                    </div>
+
+
+                    <div class="kpi-card">
+
+                        <span class="kpi-label">
+                            AVERAGE TRAFFIC
+                        </span>
+
+                        <strong
+                            id="analysis-average-traffic"
+                        >
+                            —
+                        </strong>
+
+                        <span>
+                            Per Record
+                        </span>
+
+                    </div>
+
+
+                    <div class="kpi-card">
+
+                        <span class="kpi-label">
+                            REVENUE / VEHICLE
+                        </span>
+
+                        <strong
+                            id="analysis-revenue-per-vehicle"
+                        >
+                            —
+                        </strong>
+
+                        <span>
+                            Average
+                        </span>
+
+                    </div>
+
+
+                </div>
+
+
+                <!-- =================================================
+                     ANALYSIS CONTENT START
+                ================================================== -->
+
+                <div class="analytics-grid">
+
+
+                    <!-- MAIN TRAFFIC / REVENUE CHART -->
+
+                    <div class="glass-panel chart-panel wide">
+
+                        <div class="panel-title-row">
+
+                            <div>
+
+                                <span>
+                                    TREND
+                                </span>
+
+                                <h3>
+                                    Traffic & Revenue
+                                </h3>
+
+                            </div>
+
+                        </div>
+
+
+                        <div
+                            id="analysis-main-chart"
+                            class="chart-area"
+                        >
+
+                            <span>
+                                Analysis chart
+                            </span>
+
+                        </div>
+
+                    </div>
+
+
+                    <!-- CATEGORY CHART -->
+
+                    <div class="glass-panel chart-panel">
+
+                        <div class="panel-title-row">
+
+                            <div>
+
+                                <span>
+                                    VEHICLES
+                                </span>
+
+                                <h3>
+                                    Category Composition
+                                </h3>
+
+                            </div>
+
+                        </div>
+
+
+                        <div
+                            id="analysis-category-chart"
+                            class="chart-area"
+                        >
+
+                            <span>
+                                Category chart
+                            </span>
+
+                        </div>
+
+                    </div>
+
+
+                    <!-- STATISTICS -->
+
+                    <div class="glass-panel statistics-panel">
+
+                        <div class="panel-title-row">
+
+                            <div>
+
+                                <span>
+                                    STATISTICS
+                                </span>
+
+                                <h3>
+                                    Statistical Results
+                                </h3>
+
+                            </div>
+
+                        </div>
+
+
+                        <div class="statistics-list">
+
+
+                            <div>
+
+                                <span>
+                                    Median Traffic
+                                </span>
+
+                                <strong
+                                    id="analysis-median-traffic"
+                                >
+                                    —
+                                </strong>
+
+                            </div>
+
+
+                            <div>
+
+                                <span>
+                                    Minimum Traffic
+                                </span>
+
+                                <strong
+                                    id="analysis-min-traffic"
+                                >
+                                    —
+                                </strong>
+
+                            </div>
+
+
+                            <div>
+
+                                <span>
+                                    Maximum Traffic
+                                </span>
+
+                                <strong
+                                    id="analysis-max-traffic"
+                                >
+                                    —
+                                </strong>
+
+                            </div>
+
+
+                            <div>
+
+                                <span>
+                                    Standard Deviation
+                                </span>
+
+                                <strong
+                                    id="analysis-std-traffic"
+                                >
+                                    —
+                                </strong>
+
+                            </div>
+
+
+                            <div>
+
+                                <span>
+                                    Variance
+                                </span>
+
+                                <strong
+                                    id="analysis-variance-traffic"
+                                >
+                                    —
+                                </strong>
+
+                            </div>
+
+
+                            <div>
+
+                                <span>
+                                    Traffic–Revenue Correlation
+                                </span>
+
+                                <strong
+                                    id="analysis-correlation"
+                                >
+                                    —
+                                </strong>
+
+                            </div>
+
+
+                        </div>
+
+                    </div>
+
+
+                    <!-- FILTERED RECORDS TABLE -->
+
+                    <div class="glass-panel table-panel wide">
+
+                        <div class="panel-title-row">
+
+                            <div>
+
+                                <span>
+                                    DATA
+                                </span>
+
+                                <h3>
+                                    Filtered Records
+                                </h3>
+
+                            </div>
+
+
+                            <button
+                                type="button"
+                                id="analysis-download"
+                                class="secondary-action"
+                            >
+                                Export
+                            </button>
+
+                        </div>
+
+
+                        <div
+                            id="analysis-table"
+                            class="table-wrapper"
+                        >
+
+                            <div class="empty-message">
+
+                                Run an analysis to display
+                                filtered records.
+
+                            </div>
+
+                        </div>
+
+                    </div>
+
+
+                </div>
+
+
+            </div>
+
+        </section>
+                <!-- =================================================
+             COMPARISON
+        ================================================== -->
+
+        <section
+            id="comparison"
+            class="dashboard-section"
+        >
+
+            <div class="dashboard-container">
+
+
+                <!-- SECTION HEADER -->
+
+                <div class="section-header">
+
+                    <span class="section-kicker">
+                        SIDE-BY-SIDE INSIGHTS
+                    </span>
+
+                    <h2>
+                        Toll Plaza Comparison
+                    </h2>
+
+                    <p>
+                        Compare multiple toll plazas across
+                        traffic, revenue and trends.
+                    </p>
+
+                </div>
+
+
+                <!-- =================================================
+                     COMPARISON FILTERS
+                ================================================== -->
+
+                <div class="glass-panel filter-panel">
+
+
+                    <div class="panel-heading">
+
+                        <div>
+
+                            <span>
+                                COMPARISON FILTERS
+                            </span>
+
+                            <p>
+                                Select multiple toll plazas and a period
+                            </p>
+
+                        </div>
+
+                    </div>
+
+
+                    <div class="filter-grid">
+
+
+                        <!-- TOLL PLAZAS -->
+
+                        <div class="filter-field plaza-field">
+
+                            <label>
+                                Toll Plazas
+                            </label>
+
+
+                            <div class="search-wrapper">
+
+
+                                <div class="search-input-wrapper">
+
+                                    <span>
+                                        🔍
+                                    </span>
+
+                                    <input
+                                        type="text"
+                                        id="comparison-plaza-search"
+                                        placeholder="Search and select toll plazas..."
+                                        autocomplete="off"
+                                    >
+
+                                </div>
+
+
+                                <div
+                                    id="comparison-plaza-results"
+                                    class="search-results"
+                                ></div>
+
+
+                                <div
+                                    id="comparison-selected-plazas"
+                                    class="selected-plazas"
+                                ></div>
+
+
+                            </div>
+
+                        </div>
+
+
+                        <!-- VEHICLE CATEGORY -->
+
+                        <div class="filter-field">
+
+                            <label>
+                                Vehicle Category
+                            </label>
+
+
+                            <select
+                                id="comparison-category"
+                            >
+
+                                <option value="ALL">
+                                    All Categories
+                                </option>
+
+                                <option value="CAR_JEEP">
+                                    Car / Jeep
+                                </option>
+
+                                <option value="LCV">
+                                    LCV
+                                </option>
+
+                                <option value="BUS_TRUCK">
+                                    Bus / Truck
+                                </option>
+
+                                <option value="3_AXLE">
+                                    3-Axle
+                                </option>
+
+                                <option value="4_6_AXLE">
+                                    4–6 Axle
+                                </option>
+
+                                <option value="OSV">
+                                    OSV
+                                </option>
+
+                            </select>
+
+                        </div>
+
+
+                        <!-- PERIOD -->
+
+                        <div class="filter-field">
+
+                            <label>
+                                Period
+                            </label>
+
+
+                            <select
+                                id="comparison-period"
+                            >
+
+                                <option value="all">
+                                    Full Period
+                                </option>
+
+                                <option value="2022">
+                                    2022
+                                </option>
+
+                                <option value="2023">
+                                    2023
+                                </option>
+
+                                <option value="2024">
+                                    2024
+                                </option>
+
+                                <option value="2025">
+                                    2025
+                                </option>
+
+                                <option value="2026">
+                                    2026 (YTD)
+                                </option>
+
+                            </select>
+
+                        </div>
+
+
+                    </div>
+
+
+                    <!-- COMPARE BUTTON -->
+
+                    <div class="panel-actions">
+
+                        <button
+                            type="button"
+                            id="comparison-button"
+                            class="primary-action"
+                        >
+
+                            <span>
+                                COMPARE
+                            </span>
+
+                            <span>
+                                →
+                            </span>
+
+                        </button>
+
+                    </div>
+
+
+                </div>
+
+
+                <!-- =================================================
+                     COMPARISON KPIs
+                ================================================== -->
+
+                <div class="kpi-grid">
+
+
+                    <div class="kpi-card">
+
+                        <span class="kpi-label">
+                            HIGHEST TRAFFIC
+                        </span>
+
+                        <strong
+                            id="comparison-highest-traffic"
+                        >
+                            —
+                        </strong>
+
+                    </div>
+
+
+                    <div class="kpi-card">
+
+                        <span class="kpi-label">
+                            HIGHEST REVENUE
+                        </span>
+
+                        <strong
+                            id="comparison-highest-revenue"
+                        >
+                            —
+                        </strong>
+
+                    </div>
+
+
+                    <div class="kpi-card">
+
+                        <span class="kpi-label">
+                            TRAFFIC GROWTH
+                        </span>
+
+                        <strong
+                            id="comparison-traffic-growth"
+                        >
+                            —
+                        </strong>
+
+                    </div>
+
+
+                    <div class="kpi-card">
+
+                        <span class="kpi-label">
+                            REVENUE GROWTH
+                        </span>
+
+                        <strong
+                            id="comparison-revenue-growth"
+                        >
+                            —
+                        </strong>
+
+                    </div>
+
+
+                </div>
+
+
+                <!-- =================================================
+                     COMPARISON CHARTS
+                ================================================== -->
+
+                <div class="analytics-grid">
+
+
+                    <!-- TRAFFIC -->
+
+                    <div class="glass-panel chart-panel wide">
+
+                        <div class="panel-title-row">
+
+                            <div>
+
+                                <span>
+                                    TRAFFIC
+                                </span>
+
+                                <h3>
+                                    Traffic Comparison
+                                </h3>
+
+                            </div>
+
+                        </div>
+
+
+                        <div
+                            id="comparison-traffic-chart"
+                            class="chart-area"
+                        >
+
+                            <span>
+                                Comparison chart
+                            </span>
+
+                        </div>
+
+                    </div>
+
+
+                    <!-- REVENUE -->
+
+                    <div class="glass-panel chart-panel">
+
+                        <div class="panel-title-row">
+
+                            <div>
+
+                                <span>
+                                    REVENUE
+                                </span>
+
+                                <h3>
+                                    Revenue Comparison
+                                </h3>
+
+                            </div>
+
+                        </div>
+
+
+                        <div
+                            id="comparison-revenue-chart"
+                            class="chart-area"
+                        >
+
+                            <span>
+                                Comparison chart
+                            </span>
+
+                        </div>
+
+                    </div>
+
+
+                    <!-- GROWTH TREND -->
+
+                    <div class="glass-panel chart-panel wide">
+
+                        <div class="panel-title-row">
+
+                            <div>
+
+                                <span>
+                                    TREND
+                                </span>
+
+                                <h3>
+                                    Plaza Growth Trends
+                                </h3>
+
+                            </div>
+
+                        </div>
+
+
+                        <div
+                            id="comparison-trend-chart"
+                            class="chart-area"
+                        >
+
+                            <span>
+                                Trend chart
+                            </span>
+
+                        </div>
+
+                    </div>
+
+
+                </div>
+
+
+            </div>
+
+        </section>
+
+
+
+        <!-- =================================================
+             PREDICTION
+        ================================================== -->
+
+        <section
+            id="prediction"
+            class="dashboard-section"
+        >
+
+            <div class="dashboard-container">
+
+
+                <!-- SECTION HEADER -->
+
+                <div class="section-header">
+
+                    <span class="section-kicker">
+                        MACHINE LEARNING
+                    </span>
+
+                    <h2>
+                        Revenue & Traffic Prediction
+                    </h2>
+
+                    <p>
+                        Select a toll plaza, target and forecast
+                        month to generate an ML forecast.
+                    </p>
+
+                </div>
+
+
+                <div class="prediction-layout">
+
+
+                    <!-- =================================================
+                         PREDICTION INPUT
+                    ================================================== -->
+
+                    <div class="glass-panel prediction-input">
+
+
+                        <div class="panel-heading">
+
+                            <span>
+                                PREDICTION INPUT
+                            </span>
+
+                            <p>
+                                Select one prediction-eligible toll plaza.
+                            </p>
+
+                        </div>
+
+
+                        <!-- TOLL PLAZA SEARCH -->
+
+                        <div class="filter-field plaza-field">
+
+                            <label>
+                                Toll Plaza
+                            </label>
+
+
+                            <div class="search-wrapper">
+
+
+                                <div class="search-input-wrapper">
+
+                                    <span>
+                                        🔍
+                                    </span>
+
+                                    <input
+                                        type="text"
+                                        id="prediction-plaza-search"
+                                        placeholder="Search toll plaza..."
+                                        autocomplete="off"
+                                    >
+
+                                </div>
+
+
+                                <div
+                                    id="prediction-plaza-results"
+                                    class="search-results"
+                                ></div>
+
+
+                                <div
+                                    id="prediction-selected-plaza"
+                                    class="selected-plazas"
+                                ></div>
+
+
+                            </div>
+
+                        </div>
+
+
+                        <!-- =================================================
+                             PREDICTION TARGET
+                        ================================================== -->
+
+                        <div class="target-area">
+
+                            <label>
+                                Prediction Target
+                            </label>
+
+
+                            <label class="target-option">
+
+
+                                <input
+                                    type="radio"
+                                    name="prediction-target"
+                                    value="traffic"
+                                    checked
+                                >
+
+
+                                <span>
+
+                                    <strong>
+                                        Traffic Forecast
+                                    </strong>
+
+                                    <small>
+                                        Predict vehicle volume
+                                    </small>
+
+                                </span>
+
+
+                            </label>
+
+
+                            <label class="target-option">
+
+
+                                <input
+                                    type="radio"
+                                    name="prediction-target"
+                                    value="revenue"
+                                >
+
+
+                                <span>
+
+                                    <strong>
+                                        Revenue Forecast
+                                    </strong>
+
+                                    <small>
+                                        Predict toll revenue
+                                    </small>
+
+                                </span>
+
+
+                            </label>
+
+
+                        </div>
+
+
+                        <!-- =================================================
+                             FORECAST MONTH
+                        ================================================== -->
+
+                        <div class="filter-field prediction-month-field">
+
+                            <label>
+                                Forecast Month
+                            </label>
+
+
+                            <select
+                                id="prediction-month"
+                            >
+
+                                <option value="">
+                                    Select forecast month
+                                </option>
+
+                                <option value="2026-09">
+                                    September 2026
+                                </option>
+
+                                <option value="2026-10">
+                                    October 2026
+                                </option>
+
+                                <option value="2026-11">
+                                    November 2026
+                                </option>
+
+                                <option value="2026-12">
+                                    December 2026
+                                </option>
+
+                                <option value="2027-01">
+                                    January 2027
+                                </option>
+
+                                <option value="2027-02">
+                                    February 2027
+                                </option>
+
+                                <option value="2027-03">
+                                    March 2027
+                                </option>
+
+                                <option value="2027-04">
+                                    April 2027
+                                </option>
+
+                                <option value="2027-05">
+                                    May 2027
+                                </option>
+
+                                <option value="2027-06">
+                                    June 2027
+                                </option>
+
+                                <option value="2027-07">
+                                    July 2027
+                                </option>
+
+                                <option value="2027-08">
+                                    August 2027
+                                </option>
+
+                            </select>
+
+
+                            <small class="prediction-month-help">
+
+                                Select the month you want
+                                the model to forecast.
+
+                            </small>
+
+                        </div>
+
+
+                        <!-- PREDICT BUTTON -->
+
+                        <button
+                            type="button"
+                            id="prediction-button"
+                            class="primary-action prediction-button"
+                        >
+
+                            <span>
+                                PREDICT
+                            </span>
+
+                            <span>
+                                →
+                            </span>
+
+                        </button>
+
+
+                        <!-- MODEL INFORMATION -->
+
+                        <div class="model-info">
+
+                            <span>
+                                AUTOMATIC MODEL SELECTION
+                            </span>
+
+                            <p>
+                                Traffic → LightGBM
+                            </p>
+
+                            <p>
+                                Revenue → XGBoost
+                            </p>
+
+                        </div>
+
+
+                    </div>
+
+
+                    <!-- =================================================
+                         PREDICTION RESULT
+                    ================================================== -->
+
+                    <div
+                        id="prediction-result"
+                        class="glass-panel prediction-result"
+                    >
+
+                        <div class="empty-message large">
+
+
+                            <div class="result-symbol">
+                                ↗
+                            </div>
+
+
+                            <h3>
+                                Prediction Ready
+                            </h3>
+
+
+                            <p>
+                                Choose a toll plaza, target and
+                                forecast month to generate the
+                                ML forecast.
+                            </p>
+
+
+                        </div>
+
+                    </div>
+
+
+                </div>
+
+
+            </div>
+
+        </section>
+                <!-- =================================================
+             MODEL COMPARISON
+        ================================================== -->
+
+        <section
+            id="model-comparison"
+            class="dashboard-section"
+        >
+
+            <div class="dashboard-container">
+
+
+                <!-- SECTION HEADER -->
+
+                <div class="section-header">
+
+                    <span class="section-kicker">
+                        MACHINE LEARNING PERFORMANCE
+                    </span>
+
+                    <h2>
+                        Model Comparison
+                    </h2>
+
+                    <p>
+                        Evaluate XGBoost, LightGBM and Random Forest
+                        using the 2026 test period.
+                    </p>
+
+                </div>
+
+
+                <!-- =================================================
+                     BEST MODEL HIGHLIGHTS
+                ================================================== -->
+
+                <div class="model-highlight-grid">
+
+
+                    <!-- TRAFFIC BEST MODEL -->
+
+                    <div
+                        class="glass-panel model-highlight traffic-model"
+                    >
+
+                        <span>
+                            BEST FOR TRAFFIC
+                        </span>
+
+                        <h3>
+                            LightGBM
+                        </h3>
+
+                        <strong>
+                            R² 0.9931
+                        </strong>
+
+                        <p>
+                            Lowest RMSE among the three evaluated
+                            traffic prediction models.
+                        </p>
+
+                    </div>
+
+
+                    <!-- REVENUE BEST MODEL -->
+
+                    <div
+                        class="glass-panel model-highlight revenue-model"
+                    >
+
+                        <span>
+                            BEST FOR REVENUE
+                        </span>
+
+                        <h3>
+                            XGBoost
+                        </h3>
+
+                        <strong>
+                            R² 0.9952
+                        </strong>
+
+                        <p>
+                            Lowest RMSE among the three evaluated
+                            revenue prediction models.
+                        </p>
+
+                    </div>
+
+
+                </div>
+
+
+                <!-- =================================================
+                     MODEL PERFORMANCE TABLE
+                ================================================== -->
+
+                <div class="glass-panel model-table-panel">
+
+
+                    <div class="panel-title-row">
+
+                        <div>
+
+                            <span>
+                                EVALUATION
+                            </span>
+
+                            <h3>
+                                Model Performance
+                            </h3>
+
+                        </div>
+
+                    </div>
+
+
+                    <div class="table-wrapper">
+
+
+                        <table>
+
+                            <thead>
+
+                                <tr>
+
+                                    <th>
+                                        Target
+                                    </th>
+
+                                    <th>
+                                        Model
+                                    </th>
+
+                                    <th>
+                                        MAE
+                                    </th>
+
+                                    <th>
+                                        RMSE
+                                    </th>
+
+                                    <th>
+                                        R²
+                                    </th>
+
+                                </tr>
+
+                            </thead>
+
+
+                            <tbody>
+
+
+                                <!-- TRAFFIC - XGBOOST -->
+
+                                <tr>
+
+                                    <td>
+                                        Traffic
+                                    </td>
+
+                                    <td>
+                                        XGBoost
+                                    </td>
+
+                                    <td>
+                                        19,547.69
+                                    </td>
+
+                                    <td>
+                                        31,403.77
+                                    </td>
+
+                                    <td>
+                                        0.9924
+                                    </td>
+
+                                </tr>
+
+
+                                <!-- TRAFFIC - LIGHTGBM -->
+
+                                <tr class="best-model-row">
+
+                                    <td>
+                                        Traffic
+                                    </td>
+
+                                    <td>
+
+                                        <strong>
+                                            LightGBM
+                                        </strong>
+
+                                    </td>
+
+                                    <td>
+                                        18,802.20
+                                    </td>
+
+                                    <td>
+                                        29,957.77
+                                    </td>
+
+                                    <td>
+
+                                        <strong>
+                                            0.9931
+                                        </strong>
+
+                                    </td>
+
+                                </tr>
+
+
+                                <!-- TRAFFIC - RANDOM FOREST -->
+
+                                <tr>
+
+                                    <td>
+                                        Traffic
+                                    </td>
+
+                                    <td>
+                                        Random Forest
+                                    </td>
+
+                                    <td>
+                                        25,181.20
+                                    </td>
+
+                                    <td>
+                                        39,276.01
+                                    </td>
+
+                                    <td>
+                                        0.9882
+                                    </td>
+
+                                </tr>
+
+
+                                <!-- REVENUE - XGBOOST -->
+
+                                <tr class="best-model-row">
+
+                                    <td>
+                                        Revenue
+                                    </td>
+
+                                    <td>
+
+                                        <strong>
+                                            XGBoost
+                                        </strong>
+
+                                    </td>
+
+                                    <td>
+                                        2,093,068.59
+                                    </td>
+
+                                    <td>
+                                        3,466,828.02
+                                    </td>
+
+                                    <td>
+
+                                        <strong>
+                                            0.9952
+                                        </strong>
+
+                                    </td>
+
+                                </tr>
+
+
+                                <!-- REVENUE - LIGHTGBM -->
+
+                                <tr>
+
+                                    <td>
+                                        Revenue
+                                    </td>
+
+                                    <td>
+                                        LightGBM
+                                    </td>
+
+                                    <td>
+                                        2,155,041.15
+                                    </td>
+
+                                    <td>
+                                        3,588,476.54
+                                    </td>
+
+                                    <td>
+                                        0.9948
+                                    </td>
+
+                                </tr>
+
+
+                                <!-- REVENUE - RANDOM FOREST -->
+
+                                <tr>
+
+                                    <td>
+                                        Revenue
+                                    </td>
+
+                                    <td>
+                                        Random Forest
+                                    </td>
+
+                                    <td>
+                                        2,697,541.13
+                                    </td>
+
+                                    <td>
+                                        4,420,727.51
+                                    </td>
+
+                                    <td>
+                                        0.9922
+                                    </td>
+
+                                </tr>
+
+
+                            </tbody>
+
+                        </table>
+
+
+                    </div>
+
+
+                </div>
+
+
+                <!-- =================================================
+                     EVALUATION PERIOD
+                ================================================== -->
+
+                <div class="evaluation-note">
+
+                    Training Period:
+
+                    <strong>
+                        2022–2025
+                    </strong>
+
+                    <span>
+                        •
+                    </span>
+
+                    Test Period:
+
+                    <strong>
+                        January–August 2026
+                    </strong>
+
+                </div>
+
+
+            </div>
+
+        </section>
+
+
+        <!-- =================================================
+             FOOTER
+        ================================================== -->
+
+        <footer class="site-footer">
+
+            <div>
+                Tamil Nadu TollNet
+            </div>
+
+            <div>
+                Traffic • Revenue • Insights
+            </div>
+
+        </footer>
+
+
+    </div>
+
+
+    <!-- =====================================================
+         MAIN JAVASCRIPT
+    ====================================================== -->
+
+    <script
+        src="script.js"
+    ></script>
+
+
+</body>
+
+</html>

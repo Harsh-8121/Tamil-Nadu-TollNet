@@ -1,0 +1,170 @@
+PLAZA_ID,PLAZA_NAME,PIU,RO,STATE,YEAR,MONTH,MONTH_NUMBER,DATE,TOTAL_CNT,TOTAL_AMT,TRAFFIC_ANOMALY,REVENUE_ANOMALY,OVERALL_ANOMALY,ANOMALY_TYPE
+TN001,Ammapettai Toll Plaza,Coimbatore,Chennai,Tamil Nadu,2026,May,5,2026-05-01,44533,2140105.0,Low Traffic Anomaly,Low Revenue Anomaly,Anomaly,Low Traffic + Low Revenue
+TN002,Athur Toll Plaza,Chengalpattu,Chennai,Tamil Nadu,2022,January,1,2022-01-01,799504,77891300.0,Normal,Low Revenue Anomaly,Anomaly,Low Revenue
+TN002,Athur Toll Plaza,Chengalpattu,Chennai,Tamil Nadu,2022,March,3,2022-03-01,787868,76742745.0,Normal,Low Revenue Anomaly,Anomaly,Low Revenue
+TN002,Athur Toll Plaza,Chengalpattu,Chennai,Tamil Nadu,2026,May,5,2026-05-01,1373320,123802010.0,High Traffic Anomaly,Normal,Anomaly,High Traffic
+TN003,Bogalur,Ramanathapuram,Madurai,Tamil Nadu,2025,August,8,2025-08-01,56284,4835635.0,Low Traffic Anomaly,Low Revenue Anomaly,Anomaly,Low Traffic + Low Revenue
+TN003,Bogalur,Ramanathapuram,Madurai,Tamil Nadu,2026,January,1,2026-01-01,202926,15621885.0,High Traffic Anomaly,Normal,Anomaly,High Traffic
+TN004,Boothakudi,Trichy,Madurai,Tamil Nadu,2022,January,1,2022-01-01,341315,47170535.0,Normal,Low Revenue Anomaly,Anomaly,Low Revenue
+TN004,Boothakudi,Trichy,Madurai,Tamil Nadu,2025,May,5,2025-05-01,530523,80928695.0,Normal,High Revenue Anomaly,Anomaly,High Revenue
+TN004,Boothakudi,Trichy,Madurai,Tamil Nadu,2026,May,5,2026-05-01,608498,77559060.0,High Traffic Anomaly,Normal,Anomaly,High Traffic
+TN005,Chatrapatti Toll Plaza,Dindigul,Madurai,Tamil Nadu,2023,December,12,2023-12-01,91089,10318125.0,Normal,Low Revenue Anomaly,Anomaly,Low Revenue
+TN006,Chennasamaduram Toll Plaza,Kancheepuram,Chennai,Tamil Nadu,2022,January,1,2022-01-01,685495,55621015.0,Low Traffic Anomaly,Normal,Anomaly,Low Traffic
+TN006,Chennasamaduram Toll Plaza,Kancheepuram,Chennai,Tamil Nadu,2026,January,1,2026-01-01,966210,61738440.0,High Traffic Anomaly,Normal,Anomaly,High Traffic
+TN006,Chennasamaduram Toll Plaza,Kancheepuram,Chennai,Tamil Nadu,2026,May,5,2026-05-01,951554,60257620.0,High Traffic Anomaly,Normal,Anomaly,High Traffic
+TN006,Chennasamaduram Toll Plaza,Kancheepuram,Chennai,Tamil Nadu,2026,July,7,2026-07-01,950983,63117480.0,High Traffic Anomaly,Normal,Anomaly,High Traffic
+TN006,Chennasamaduram Toll Plaza,Kancheepuram,Chennai,Tamil Nadu,2026,August,8,2026-08-01,974167,65080245.0,High Traffic Anomaly,Normal,Anomaly,High Traffic
+TN007,Chittampatti Toll Plaza,Trichy,Madurai,Tamil Nadu,2026,May,5,2026-05-01,616145,75009640.0,High Traffic Anomaly,Normal,Anomaly,High Traffic
+TN007,Chittampatti Toll Plaza,Trichy,Madurai,Tamil Nadu,2026,August,8,2026-08-01,582258,73066130.0,High Traffic Anomaly,Normal,Anomaly,High Traffic
+TN008,Elliyarpathy,Tuticorin,Madurai,Tamil Nadu,2025,December,12,2025-12-01,430251,79791140.0,Normal,High Revenue Anomaly,Anomaly,High Revenue
+TN008,Elliyarpathy,Tuticorin,Madurai,Tamil Nadu,2026,January,1,2026-01-01,436293,77437000.0,Normal,High Revenue Anomaly,Anomaly,High Revenue
+TN008,Elliyarpathy,Tuticorin,Madurai,Tamil Nadu,2026,March,3,2026-03-01,413315,77343295.0,Normal,High Revenue Anomaly,Anomaly,High Revenue
+TN008,Elliyarpathy,Tuticorin,Madurai,Tamil Nadu,2026,May,5,2026-05-01,495472,83269725.0,High Traffic Anomaly,High Revenue Anomaly,Anomaly,High Traffic + High Revenue
+TN008,Elliyarpathy,Tuticorin,Madurai,Tamil Nadu,2026,June,6,2026-06-01,431380,77327985.0,Normal,High Revenue Anomaly,Anomaly,High Revenue
+TN008,Elliyarpathy,Tuticorin,Madurai,Tamil Nadu,2026,July,7,2026-07-01,422347,79637780.0,Normal,High Revenue Anomaly,Anomaly,High Revenue
+TN008,Elliyarpathy,Tuticorin,Madurai,Tamil Nadu,2026,August,8,2026-08-01,437489,80442985.0,Normal,High Revenue Anomaly,Anomaly,High Revenue
+TN011,Etturvattam Toll Plaza,Madurai,Madurai,Tamil Nadu,2026,May,5,2026-05-01,529157,67120232.0,High Traffic Anomaly,Normal,Anomaly,High Traffic
+TN012,Gangarampalayam Toll Plaza,Puducherry,Chennai,Tamil Nadu,2025,February,2,2025-02-01,30302,2434050.0,Low Traffic Anomaly,Low Revenue Anomaly,Anomaly,Low Traffic + Low Revenue
+TN013,GomangalamPuthur Toll Plaza,Dindigul,Madurai,Tamil Nadu,2026,August,8,2026-08-01,335561,49763695.0,High Traffic Anomaly,High Revenue Anomaly,Anomaly,High Traffic + High Revenue
+TN014,H. Pudhupatti,Salem,Madurai,Tamil Nadu,2025,July,7,2025-07-01,46757,7333240.0,Low Traffic Anomaly,Normal,Anomaly,Low Traffic
+TN014,H. Pudhupatti,Salem,Madurai,Tamil Nadu,2025,September,9,2025-09-01,21091,2837860.0,Low Traffic Anomaly,Low Revenue Anomaly,Anomaly,Low Traffic + Low Revenue
+TN015,IVRCL Chengapally Tollways Limited (Kaniyur),Coimbatore,Chennai,Tamil Nadu,2022,January,1,2022-01-01,711088,94846535.0,Low Traffic Anomaly,Low Revenue Anomaly,Anomaly,Low Traffic + Low Revenue
+TN015,IVRCL Chengapally Tollways Limited (Kaniyur),Coimbatore,Chennai,Tamil Nadu,2026,May,5,2026-05-01,1239121,150827355.0,High Traffic Anomaly,Normal,Anomaly,High Traffic
+TN015,IVRCL Chengapally Tollways Limited (Kaniyur),Coimbatore,Chennai,Tamil Nadu,2026,August,8,2026-08-01,1229858,158795530.0,High Traffic Anomaly,Normal,Anomaly,High Traffic
+TN017,Kadhavani Toll Plaza,Krishnagiri,Chennai,Tamil Nadu,2024,November,11,2024-11-01,6560,856280.0,Low Traffic Anomaly,Low Revenue Anomaly,Anomaly,Low Traffic + Low Revenue
+TN019,Kappalur,Madurai,Madurai,Tamil Nadu,2026,May,5,2026-05-01,981122,110801533.0,High Traffic Anomaly,Normal,Anomaly,High Traffic
+TN020,Karagadahalli Toll Plaza,Krishnagiri,Chennai,Tamil Nadu,2025,February,2,2025-02-01,58536,8754530.0,Low Traffic Anomaly,Low Revenue Anomaly,Anomaly,Low Traffic + Low Revenue
+TN020,Karagadahalli Toll Plaza,Krishnagiri,Chennai,Tamil Nadu,2026,August,8,2026-08-01,444408,47146755.0,High Traffic Anomaly,High Revenue Anomaly,Anomaly,High Traffic + High Revenue
+TN021,Kariyamanglam Toll Plaza,,,Tamil Nadu,2024,September,9,2024-09-01,29059,2408165.0,Low Traffic Anomaly,Low Revenue Anomaly,Anomaly,Low Traffic + Low Revenue
+TN021,Kariyamanglam Toll Plaza,Villupuram,Chennai,Tamil Nadu,2024,September,9,2024-09-01,87728,7026865.0,Low Traffic Anomaly,Low Revenue Anomaly,Anomaly,Low Traffic + Low Revenue
+TN021,Kariyamanglam Toll Plaza,,,Tamil Nadu,2024,October,10,2024-10-01,14994,1122040.0,Low Traffic Anomaly,Low Revenue Anomaly,Anomaly,Low Traffic + Low Revenue
+TN022,Keezhkuppam Toll Plaza,Salem,Chennai,Tamil Nadu,2022,March,3,2022-03-01,50869,3696115.0,Low Traffic Anomaly,Low Revenue Anomaly,Anomaly,Low Traffic + Low Revenue
+TN022,Keezhkuppam Toll Plaza,Salem,Chennai,Tamil Nadu,2026,August,8,2026-08-01,123013,7422330.0,High Traffic Anomaly,Normal,Anomaly,High Traffic
+TN023,Kodikottai Toll Plaza,Karaikudi,Madurai,Tamil Nadu,2022,June,6,2022-06-01,44346,1896895.0,Low Traffic Anomaly,Low Revenue Anomaly,Anomaly,Low Traffic + Low Revenue
+TN024,Kothattai,,,Tamil Nadu,2024,December,12,2024-12-01,63438,9237560.0,Low Traffic Anomaly,Low Revenue Anomaly,Anomaly,Low Traffic + Low Revenue
+TN024,Kothattai,Puducherry,Chennai,Tamil Nadu,2024,December,12,2024-12-01,8063,1169120.0,Low Traffic Anomaly,Low Revenue Anomaly,Anomaly,Low Traffic + Low Revenue
+TN024,Kothattai,Puducherry,Chennai,Tamil Nadu,2025,January,1,2025-01-01,68996,10423185.0,Low Traffic Anomaly,Low Revenue Anomaly,Anomaly,Low Traffic + Low Revenue
+TN024,Kothattai,Puducherry,Chennai,Tamil Nadu,2026,April,4,2026-04-01,111748,13079550.0,Low Traffic Anomaly,Low Revenue Anomaly,Anomaly,Low Traffic + Low Revenue
+TN025,Kovilvenni Toll Plaza,,,Tamil Nadu,2024,November,11,2024-11-01,9034,999530.0,Low Traffic Anomaly,Low Revenue Anomaly,Anomaly,Low Traffic + Low Revenue
+TN025,Kovilvenni Toll Plaza,Thanjavur,Madurai,Tamil Nadu,2024,November,11,2024-11-01,11397,1227435.0,Low Traffic Anomaly,Low Revenue Anomaly,Anomaly,Low Traffic + Low Revenue
+TN026,Kozhinjiipatti Plaza,Madurai,Madurai,Tamil Nadu,2022,January,1,2022-01-01,566892,63967090.0,Normal,Low Revenue Anomaly,Anomaly,Low Revenue
+TN026,Kozhinjiipatti Plaza,Madurai,Madurai,Tamil Nadu,2026,May,5,2026-05-01,905513,92663380.0,High Traffic Anomaly,Normal,Anomaly,High Traffic
+TN027,Krishnagiri Plaza,Krishnagiri,Chennai,Tamil Nadu,2022,January,1,2022-01-01,997986,153826490.0,Low Traffic Anomaly,Low Revenue Anomaly,Anomaly,Low Traffic + Low Revenue
+TN028,Kurungudi,,,Tamil Nadu,2024,July,7,2024-07-01,4873,275660.0,Low Traffic Anomaly,Low Revenue Anomaly,Anomaly,Low Traffic + Low Revenue
+TN028,Kurungudi,Villupuram,Chennai,Tamil Nadu,2024,July,7,2024-07-01,19556,1107570.0,Low Traffic Anomaly,Low Revenue Anomaly,Anomaly,Low Traffic + Low Revenue
+TN028,Kurungudi,Viluppuram,Chennai,Tamil Nadu,2026,January,1,2026-01-01,67212,2637380.0,High Traffic Anomaly,Normal,Anomaly,High Traffic
+TN029,L&T Krishnagiri Thopur Toll Plaza(Palayam),Salem,Chennai,Tamil Nadu,2026,May,5,2026-05-01,1138191,239996915.0,High Traffic Anomaly,Normal,Anomaly,High Traffic
+TN030,Lechchumanapatti,Karaikudi,Madurai,Tamil Nadu,2026,May,5,2026-05-01,351268,16442590.0,High Traffic Anomaly,Normal,Anomaly,High Traffic
+TN031,Lembalakudi,Karaikudi,Madurai,Tamil Nadu,2026,January,1,2026-01-01,300620,12542540.0,High Traffic Anomaly,Normal,Anomaly,High Traffic
+TN031,Lembalakudi,Karaikudi,Madurai,Tamil Nadu,2026,May,5,2026-05-01,301037,12345520.0,High Traffic Anomaly,Normal,Anomaly,High Traffic
+TN033,Managethi Toll Plaza,Viluppuram,Madurai,Tamil Nadu,2022,February,2,2022-02-01,76974,5176185.0,Normal,Low Revenue Anomaly,Anomaly,Low Revenue
+TN033,Managethi Toll Plaza,Viluppuram,Madurai,Tamil Nadu,2022,May,5,2022-05-01,10451,836270.0,Low Traffic Anomaly,Low Revenue Anomaly,Anomaly,Low Traffic + Low Revenue
+TN033,Managethi Toll Plaza,Viluppuram,Madurai,Tamil Nadu,2022,June,6,2022-06-01,70128,5184990.0,Normal,Low Revenue Anomaly,Anomaly,Low Revenue
+TN033,Managethi Toll Plaza,Viluppuram,Madurai,Tamil Nadu,2022,July,7,2022-07-01,76268,5628810.0,Normal,Low Revenue Anomaly,Anomaly,Low Revenue
+TN033,Managethi Toll Plaza,Viluppuram,Madurai,Tamil Nadu,2022,September,9,2022-09-01,80253,5429770.0,Normal,Low Revenue Anomaly,Anomaly,Low Revenue
+TN033,Managethi Toll Plaza,Viluppuram,Madurai,Tamil Nadu,2022,October,10,2022-10-01,80164,5388700.0,Normal,Low Revenue Anomaly,Anomaly,Low Revenue
+TN033,Managethi Toll Plaza,Viluppuram,Madurai,Tamil Nadu,2022,November,11,2022-11-01,67917,4621585.0,Low Traffic Anomaly,Low Revenue Anomaly,Anomaly,Low Traffic + Low Revenue
+TN033,Managethi Toll Plaza,Viluppuram,Madurai,Tamil Nadu,2022,December,12,2022-12-01,76974,5176185.0,Normal,Low Revenue Anomaly,Anomaly,Low Revenue
+TN033,Managethi Toll Plaza,Villupuram,Madurai,Tamil Nadu,2023,January,1,2023-01-01,83556,5355700.0,Normal,Low Revenue Anomaly,Anomaly,Low Revenue
+TN033,Managethi Toll Plaza,Villupuram,Madurai,Tamil Nadu,2023,February,2,2023-02-01,79458,5286645.0,Normal,Low Revenue Anomaly,Anomaly,Low Revenue
+TN034,Manambadi,,,Tamil Nadu,2025,July,7,2025-07-01,40700,4856065.0,Low Traffic Anomaly,Low Revenue Anomaly,Anomaly,Low Traffic + Low Revenue
+TN034,Manambadi,Thanjavur,Madurai,Tamil Nadu,2025,July,7,2025-07-01,116808,13664840.0,Low Traffic Anomaly,Low Revenue Anomaly,Anomaly,Low Traffic + Low Revenue
+TN035,Manavasi Plaza,Karur,Chennai,Tamil Nadu,2022,January,1,2022-01-01,303623,27014600.0,Low Traffic Anomaly,Normal,Anomaly,Low Traffic
+TN035,Manavasi Plaza,Karur,Chennai,Tamil Nadu,2022,November,11,2022-11-01,301848,30875055.0,Low Traffic Anomaly,Normal,Anomaly,Low Traffic
+TN035,Manavasi Plaza,Karur,Chennai,Tamil Nadu,2025,August,8,2025-08-01,288943,28134335.0,Low Traffic Anomaly,Normal,Anomaly,Low Traffic
+TN035,Manavasi Plaza,Trichy,Madurai,Tamil Nadu,2025,August,8,2025-08-01,90568,7914040.0,Low Traffic Anomaly,Low Revenue Anomaly,Anomaly,Low Traffic + Low Revenue
+TN035,Manavasi Plaza,Trichy,Madurai,Tamil Nadu,2026,May,5,2026-05-01,405792,32805220.0,High Traffic Anomaly,Normal,Anomaly,High Traffic
+TN036,Mathur Toll Plaza,Chennai,Chennai,Tamil Nadu,2022,January,1,2022-01-01,381530,32889996.0,Normal,Low Revenue Anomaly,Anomaly,Low Revenue
+TN036,Mathur Toll Plaza,Chennai,Chennai,Tamil Nadu,2023,December,12,2023-12-01,349722,39784150.0,Low Traffic Anomaly,Normal,Anomaly,Low Traffic
+TN036,Mathur Toll Plaza,Chennai,Chennai,Tamil Nadu,2025,February,2,2025-02-01,375924,42580500.0,Low Traffic Anomaly,Normal,Anomaly,Low Traffic
+TN036,Mathur Toll Plaza,Chennai,Chennai,Tamil Nadu,2025,August,8,2025-08-01,317856,35175950.0,Low Traffic Anomaly,Low Revenue Anomaly,Anomaly,Low Traffic + Low Revenue
+TN036,Mathur Toll Plaza,Chennai,Chennai,Tamil Nadu,2026,June,6,2026-06-01,292524,30835430.0,Low Traffic Anomaly,Low Revenue Anomaly,Anomaly,Low Traffic + Low Revenue
+TN036,Mathur Toll Plaza,Chennai,Chennai,Tamil Nadu,2026,July,7,2026-07-01,500872,52730675.0,High Traffic Anomaly,Normal,Anomaly,High Traffic
+TN037,Mettupatti Plaza,Salem,Chennai,Tamil Nadu,2022,January,1,2022-01-01,492001,40165355.0,Normal,Low Revenue Anomaly,Anomaly,Low Revenue
+TN037,Mettupatti Plaza,Viluppuram,Chennai,Tamil Nadu,2026,May,5,2026-05-01,747390,54047450.0,High Traffic Anomaly,Normal,Anomaly,High Traffic
+TN038,Nagampatti Toll Plaza,,,Tamil Nadu,2024,September,9,2024-09-01,24432,2330760.0,Low Traffic Anomaly,Low Revenue Anomaly,Anomaly,Low Traffic + Low Revenue
+TN038,Nagampatti Toll Plaza,Villupuram,Chennai,Tamil Nadu,2024,September,9,2024-09-01,73078,6541375.0,Low Traffic Anomaly,Low Revenue Anomaly,Anomaly,Low Traffic + Low Revenue
+TN038,Nagampatti Toll Plaza,,,Tamil Nadu,2024,October,10,2024-10-01,11310,973985.0,Low Traffic Anomaly,Low Revenue Anomaly,Anomaly,Low Traffic + Low Revenue
+TN038,Nagampatti Toll Plaza,Viluppuram,Chennai,Tamil Nadu,2026,January,1,2026-01-01,238402,18359675.0,High Traffic Anomaly,Normal,Anomaly,High Traffic
+TN038,Nagampatti Toll Plaza,Viluppuram,Chennai,Tamil Nadu,2026,May,5,2026-05-01,231655,16845015.0,High Traffic Anomaly,Normal,Anomaly,High Traffic
+TN039,Naglikondan Toll Plaza,Villupuram,Chennai,Tamil Nadu,2024,September,9,2024-09-01,84283,6159440.0,Low Traffic Anomaly,Low Revenue Anomaly,Anomaly,Low Traffic + Low Revenue
+TN039,Naglikondan Toll Plaza,,,Tamil Nadu,2024,November,11,2024-11-01,5115,392800.0,Low Traffic Anomaly,Low Revenue Anomaly,Anomaly,Low Traffic + Low Revenue
+TN040,Nallur Toll Plaza,Chennai,Chennai,Tamil Nadu,2022,January,1,2022-01-01,668241,68644700.0,Normal,Low Revenue Anomaly,Anomaly,Low Revenue
+TN040,Nallur Toll Plaza,Chennai,Chennai,Tamil Nadu,2026,July,7,2026-07-01,1183846,174899300.0,High Traffic Anomaly,Normal,Anomaly,High Traffic
+TN041,Nanguneri Toll Plaza,Nagercoil,Madurai,Tamil Nadu,2026,May,5,2026-05-01,579226,66901784.0,High Traffic Anomaly,Normal,Anomaly,High Traffic
+TN042,Nathakkarai Plaza,Viluppuram,Chennai,Tamil Nadu,2026,May,5,2026-05-01,594234,46668570.0,High Traffic Anomaly,Normal,Anomaly,High Traffic
+TN045,Omalur Toll Plaza,Salem,Chennai,Tamil Nadu,2022,January,1,2022-01-01,785810,106877760.0,Normal,Low Revenue Anomaly,Anomaly,Low Revenue
+TN045,Omalur Toll Plaza,Salem,Chennai,Tamil Nadu,2022,April,4,2022-04-01,851949,110521085.0,Normal,Low Revenue Anomaly,Anomaly,Low Revenue
+TN045,Omalur Toll Plaza,Salem,Chennai,Tamil Nadu,2022,August,8,2022-08-01,851949,110521085.0,Normal,Low Revenue Anomaly,Anomaly,Low Revenue
+TN047,Pallikonda Toll Plaza,Krishnagiri,Chennai,Tamil Nadu,2022,January,1,2022-01-01,567555,92133605.0,Normal,Low Revenue Anomaly,Anomaly,Low Revenue
+TN047,Pallikonda Toll Plaza,Krishnagiri,Chennai,Tamil Nadu,2026,May,5,2026-05-01,810626,118394675.0,High Traffic Anomaly,Normal,Anomaly,High Traffic
+TN047,Pallikonda Toll Plaza,Krishnagiri,Chennai,Tamil Nadu,2026,August,8,2026-08-01,783823,123461460.0,High Traffic Anomaly,Normal,Anomaly,High Traffic
+TN048,Paranur,Chengalpattu,Chennai,Tamil Nadu,2022,January,1,2022-01-01,1034543,85860375.0,Low Traffic Anomaly,Normal,Anomaly,Low Traffic
+TN049,Pattarai Toll Plaza,Chennai,Chennai,Tamil Nadu,2025,May,5,2025-05-01,295302,19949585.0,Normal,High Revenue Anomaly,Anomaly,High Revenue
+TN049,Pattarai Toll Plaza,Chennai,Chennai,Tamil Nadu,2025,June,6,2025-06-01,294504,20036155.0,Normal,High Revenue Anomaly,Anomaly,High Revenue
+TN049,Pattarai Toll Plaza,Chennai,Chennai,Tamil Nadu,2025,July,7,2025-07-01,293220,19920875.0,Normal,High Revenue Anomaly,Anomaly,High Revenue
+TN049,Pattarai Toll Plaza,Chennai-2,Chennai,Tamil Nadu,2025,December,12,2025-12-01,308738,19956070.0,Normal,High Revenue Anomaly,Anomaly,High Revenue
+TN052,Pongalur,,,Tamil Nadu,2025,November,11,2025-11-01,14307,1771785.0,Low Traffic Anomaly,Low Revenue Anomaly,Anomaly,Low Traffic + Low Revenue
+TN052,Pongalur,Coimbatore,Chennai,Tamil Nadu,2025,November,11,2025-11-01,42293,4719650.0,Low Traffic Anomaly,Low Revenue Anomaly,Anomaly,Low Traffic + Low Revenue
+TN053,Ponnalagaram Toll Plaza,Salem,Chennai,Tamil Nadu,2022,July,7,2022-07-01,490,28155.0,Low Traffic Anomaly,Low Revenue Anomaly,Anomaly,Low Traffic + Low Revenue
+TN053,Ponnalagaram Toll Plaza,Salem,Chennai,Tamil Nadu,2023,October,10,2023-10-01,91673,5548012.0,Low Traffic Anomaly,Normal,Anomaly,Low Traffic
+TN053,Ponnalagaram Toll Plaza,Salem,Chennai,Tamil Nadu,2026,August,8,2026-08-01,125710,11963150.0,Normal,High Revenue Anomaly,Anomaly,High Revenue
+TN054,Ponnambalapatti Plaza,Trichy,Madurai,Tamil Nadu,2026,May,5,2026-05-01,403976,49272715.0,High Traffic Anomaly,Normal,Anomaly,High Traffic
+TN055,Pudur Toll Plaza,Madurai,Madurai,Tamil Nadu,2023,July,7,2023-07-01,23,4140.0,Low Traffic Anomaly,Low Revenue Anomaly,Anomaly,Low Traffic + Low Revenue
+TN055,Pudur Toll Plaza,Madurai,Madurai,Tamil Nadu,2024,February,2,2024-02-01,3741,763460.0,Low Traffic Anomaly,Low Revenue Anomaly,Anomaly,Low Traffic + Low Revenue
+TN055,Pudur Toll Plaza,Madurai,Madurai,Tamil Nadu,2025,May,5,2025-05-01,134690,24821550.0,Normal,High Revenue Anomaly,Anomaly,High Revenue
+TN057,Rasampalayam Plaza,Salem,Chennai,Tamil Nadu,2022,January,1,2022-01-01,345911,31813165.0,Normal,Low Revenue Anomaly,Anomaly,Low Revenue
+TN057,Rasampalayam Plaza,Salem,Chennai,Tamil Nadu,2022,July,7,2022-07-01,368040,32962945.0,Normal,Low Revenue Anomaly,Anomaly,Low Revenue
+TN059,Salaipudur,Nagercoil,Madurai,Tamil Nadu,2026,May,5,2026-05-01,496467,74236128.0,High Traffic Anomaly,Normal,Anomaly,High Traffic
+TN060,Samayapuram Toll Plaza,Trichy,Madurai,Tamil Nadu,2026,January,1,2026-01-01,927888,61769705.0,High Traffic Anomaly,Normal,Anomaly,High Traffic
+TN060,Samayapuram Toll Plaza,Trichy,Madurai,Tamil Nadu,2026,May,5,2026-05-01,1004130,62869330.0,High Traffic Anomaly,Normal,Anomaly,High Traffic
+TN062,Sengurichi Toll Plaza,Trichy,Madurai,Tamil Nadu,2022,November,11,2022-11-01,662434,80658395.0,Low Traffic Anomaly,Normal,Anomaly,Low Traffic
+TN062,Sengurichi Toll Plaza,Trichy,Madurai,Tamil Nadu,2026,January,1,2026-01-01,1100460,105170845.0,High Traffic Anomaly,Normal,Anomaly,High Traffic
+TN062,Sengurichi Toll Plaza,Trichy,Madurai,Tamil Nadu,2026,May,5,2026-05-01,1157374,106356410.0,High Traffic Anomaly,Normal,Anomaly,High Traffic
+TN063,Shenbagampettai toll plaza,Karaikudi,Madurai,Tamil Nadu,2025,May,5,2025-05-01,88020,9079500.0,High Traffic Anomaly,Normal,Anomaly,High Traffic
+TN064,Sriperumbudur,Kancheepuram,Chennai,Tamil Nadu,2022,January,1,2022-01-01,672129,64602340.0,Low Traffic Anomaly,Low Revenue Anomaly,Anomaly,Low Traffic + Low Revenue
+TN065,Surapattu,Chennai,Chennai,Tamil Nadu,2022,January,1,2022-01-01,510037,64159690.0,Normal,Low Revenue Anomaly,Anomaly,Low Revenue
+TN067,Thirumandurai Toll Plaza,Trichy,Madurai,Tamil Nadu,2022,October,10,2022-10-01,526998,58819335.0,Normal,Low Revenue Anomaly,Anomaly,Low Revenue
+TN067,Thirumandurai Toll Plaza,Trichy,Madurai,Tamil Nadu,2022,November,11,2022-11-01,514080,62903510.0,Low Traffic Anomaly,Normal,Anomaly,Low Traffic
+TN067,Thirumandurai Toll Plaza,Trichy,Madurai,Tamil Nadu,2026,January,1,2026-01-01,861027,82898715.0,High Traffic Anomaly,Normal,Anomaly,High Traffic
+TN067,Thirumandurai Toll Plaza,Trichy,Madurai,Tamil Nadu,2026,May,5,2026-05-01,911800,84751230.0,High Traffic Anomaly,Normal,Anomaly,High Traffic
+TN068,Thiruparaithurai Plaza,Karur,Chennai,Tamil Nadu,2025,June,6,2025-06-01,339212,16145790.0,Normal,High Revenue Anomaly,Anomaly,High Revenue
+TN068,Thiruparaithurai Plaza,Trichy,Madurai,Tamil Nadu,2025,August,8,2025-08-01,82211,3229990.0,Low Traffic Anomaly,Low Revenue Anomaly,Anomaly,Low Traffic + Low Revenue
+TN068,Thiruparaithurai Plaza,Trichy,Madurai,Tamil Nadu,2026,May,5,2026-05-01,385532,14162980.0,High Traffic Anomaly,Normal,Anomaly,High Traffic
+TN068,Thiruparaithurai Plaza,Trichy,Madurai,Tamil Nadu,2026,July,7,2026-07-01,341240,16296975.0,Normal,High Revenue Anomaly,Anomaly,High Revenue
+TN071,Tirupachethi,Karaikudi,Madurai,Tamil Nadu,2022,January,1,2022-01-01,159140,12841322.0,Normal,Low Revenue Anomaly,Anomaly,Low Revenue
+TN071,Tirupachethi,Karaikudi,Madurai,Tamil Nadu,2025,August,8,2025-08-01,149577,13464750.0,Low Traffic Anomaly,Low Revenue Anomaly,Anomaly,Low Traffic + Low Revenue
+TN071,Tirupachethi,Ramanathapuram,Madurai,Tamil Nadu,2025,August,8,2025-08-01,74519,6317035.0,Low Traffic Anomaly,Low Revenue Anomaly,Anomaly,Low Traffic + Low Revenue
+TN071,Tirupachethi,Ramanathapuram,Madurai,Tamil Nadu,2026,January,1,2026-01-01,279680,21187485.0,High Traffic Anomaly,Normal,Anomaly,High Traffic
+TN071,Tirupachethi,Ramanathapuram,Madurai,Tamil Nadu,2026,May,5,2026-05-01,266686,20341295.0,High Traffic Anomaly,Normal,Anomaly,High Traffic
+TN074,Upparpatti,Dindigul,Madurai,Tamil Nadu,2022,October,10,2022-10-01,133919,8092130.0,Normal,Low Revenue Anomaly,Anomaly,Low Revenue
+TN074,Upparpatti,Dindigul,Madurai,Tamil Nadu,2024,December,12,2024-12-01,297111,17651965.0,Normal,High Revenue Anomaly,Anomaly,High Revenue
+TN074,Upparpatti,Dindigul,Madurai,Tamil Nadu,2025,December,12,2025-12-01,337378,18084995.0,High Traffic Anomaly,High Revenue Anomaly,Anomaly,High Traffic + High Revenue
+TN074,Upparpatti,Dindigul,Madurai,Tamil Nadu,2026,January,1,2026-01-01,308603,17040525.0,High Traffic Anomaly,Normal,Anomaly,High Traffic
+TN075,Vagaikulam,Tuticorin,Madurai,Tamil Nadu,2023,December,12,2023-12-01,146898,15130245.0,Low Traffic Anomaly,Normal,Anomaly,Low Traffic
+TN076,Vaiguntham Toll Plaza,Salem,Chennai,Tamil Nadu,2022,January,1,2022-01-01,656555,70178025.0,Low Traffic Anomaly,Low Revenue Anomaly,Anomaly,Low Traffic + Low Revenue
+TN076,Vaiguntham Toll Plaza,Salem,Chennai,Tamil Nadu,2026,January,1,2026-01-01,920989,95857850.0,High Traffic Anomaly,Normal,Anomaly,High Traffic
+TN076,Vaiguntham Toll Plaza,Salem,Chennai,Tamil Nadu,2026,May,5,2026-05-01,943163,96529600.0,High Traffic Anomaly,Normal,Anomaly,High Traffic
+TN078,Vallam Toll Plaza,Tiruvannamalai,Chennai,Tamil Nadu,2022,September,9,2022-09-01,157720,6519840.0,Low Traffic Anomaly,Normal,Anomaly,Low Traffic
+TN080,Vaniyambadi Toll Plaza,Krishnagiri,Chennai,Tamil Nadu,2022,January,1,2022-01-01,467002,82820795.0,Normal,Low Revenue Anomaly,Anomaly,Low Revenue
+TN080,Vaniyambadi Toll Plaza,Krishnagiri,Chennai,Tamil Nadu,2023,February,2,2023-02-01,436849,86203380.0,Normal,Low Revenue Anomaly,Anomaly,Low Revenue
+TN080,Vaniyambadi Toll Plaza,Krishnagiri,Chennai,Tamil Nadu,2026,July,7,2026-07-01,510274,107957895.0,Normal,High Revenue Anomaly,Anomaly,High Revenue
+TN081,Veeracholapuram Plaza,Viluppuram,Chennai,Tamil Nadu,2026,May,5,2026-05-01,477165,39157400.0,High Traffic Anomaly,Normal,Anomaly,High Traffic
+TN082,Velampatti fee plaza,,,Tamil Nadu,2024,November,11,2024-11-01,54585,2681680.0,Low Traffic Anomaly,Low Revenue Anomaly,Anomaly,Low Traffic + Low Revenue
+TN082,Velampatti fee plaza,Coimbatore,Chennai,Tamil Nadu,2024,November,11,2024-11-01,14005,706615.0,Low Traffic Anomaly,Low Revenue Anomaly,Anomaly,Low Traffic + Low Revenue
+TN083,Velanchettiyur,Dindigul,Madurai,Tamil Nadu,2026,May,5,2026-05-01,473153,76604895.0,High Traffic Anomaly,Normal,Anomaly,High Traffic
+TN084,Vellar,Coimbatore,Chennai,Tamil Nadu,2026,May,5,2026-05-01,22128,1272090.0,Low Traffic Anomaly,Low Revenue Anomaly,Anomaly,Low Traffic + Low Revenue
+TN085,Vembukudi,,,Tamil Nadu,2025,January,1,2025-01-01,37465,4032640.0,Low Traffic Anomaly,Low Revenue Anomaly,Anomaly,Low Traffic + Low Revenue
+TN085,Vembukudi,Thanjavur,Madurai,Tamil Nadu,2025,January,1,2025-01-01,6243,664040.0,Low Traffic Anomaly,Low Revenue Anomaly,Anomaly,Low Traffic + Low Revenue
+TN086,Vennathur Toll Plaza,Karaikudi,Madurai,Tamil Nadu,2022,June,6,2022-06-01,30786,1173522.0,Low Traffic Anomaly,Low Revenue Anomaly,Anomaly,Low Traffic + Low Revenue
+TN086,Vennathur Toll Plaza,Karaikudi,Madurai,Tamil Nadu,2025,January,1,2025-01-01,74045,3065410.0,Normal,High Revenue Anomaly,Anomaly,High Revenue
+TN086,Vennathur Toll Plaza,Karaikudi,Madurai,Tamil Nadu,2026,January,1,2026-01-01,82403,3039645.0,High Traffic Anomaly,High Revenue Anomaly,Anomaly,High Traffic + High Revenue
+TN087,Vijayamangalam Toll Plaza,Salem,Chennai,Tamil Nadu,2022,January,1,2022-01-01,802912,78117025.0,Normal,Low Revenue Anomaly,Anomaly,Low Revenue
+TN087,Vijayamangalam Toll Plaza,Salem,Chennai,Tamil Nadu,2022,April,4,2022-04-01,901806,84046550.0,Normal,Low Revenue Anomaly,Anomaly,Low Revenue
+TN087,Vijayamangalam Toll Plaza,Salem,Chennai,Tamil Nadu,2022,July,7,2022-07-01,908809,84502690.0,Normal,Low Revenue Anomaly,Anomaly,Low Revenue
+TN087,Vijayamangalam Toll Plaza,Salem,Chennai,Tamil Nadu,2022,August,8,2022-08-01,901806,84046550.0,Normal,Low Revenue Anomaly,Anomaly,Low Revenue
+TN087,Vijayamangalam Toll Plaza,Salem,Chennai,Tamil Nadu,2026,May,5,2026-05-01,1276460,110695685.0,High Traffic Anomaly,Normal,Anomaly,High Traffic
+TN087,Vijayamangalam Toll Plaza,Salem,Chennai,Tamil Nadu,2026,July,7,2026-07-01,1204612,123508490.0,Normal,High Revenue Anomaly,Anomaly,High Revenue
+TN087,Vijayamangalam Toll Plaza,Salem,Chennai,Tamil Nadu,2026,August,8,2026-08-01,1263441,117727655.0,High Traffic Anomaly,Normal,Anomaly,High Traffic
+TN088,Vikravandi,Viluppuram,Chennai,Tamil Nadu,2026,January,1,2026-01-01,1212032,168193720.0,High Traffic Anomaly,Normal,Anomaly,High Traffic
+TN088,Vikravandi,Viluppuram,Chennai,Tamil Nadu,2026,May,5,2026-05-01,1255651,166418155.0,High Traffic Anomaly,Normal,Anomaly,High Traffic

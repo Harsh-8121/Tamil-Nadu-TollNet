@@ -1,0 +1,69 @@
+PLAZA_ID,PLAZA_NAME,ANOMALY_COUNT,HIGH_TRAFFIC_COUNT,LOW_TRAFFIC_COUNT,HIGH_REVENUE_COUNT,LOW_REVENUE_COUNT
+TN033,Managethi Toll Plaza,10,0,2,0,10
+TN008,Elliyarpathy,7,1,0,7,0
+TN087,Vijayamangalam Toll Plaza,7,2,0,1,4
+TN036,Mathur Toll Plaza,6,1,4,0,3
+TN038,Nagampatti Toll Plaza,5,2,3,0,3
+TN035,Manavasi Plaza,5,1,4,0,1
+TN071,Tirupachethi,5,2,2,0,3
+TN006,Chennasamaduram Toll Plaza,5,4,1,0,0
+TN068,Thiruparaithurai Plaza,4,1,1,2,1
+TN049,Pattarai Toll Plaza,4,0,0,4,0
+TN074,Upparpatti,4,2,0,2,1
+TN067,Thirumandurai Toll Plaza,4,2,1,0,1
+TN024,Kothattai,4,0,4,0,4
+TN053,Ponnalagaram Toll Plaza,3,0,2,1,1
+TN004,Boothakudi,3,1,0,1,1
+TN002,Athur Toll Plaza,3,1,0,0,2
+TN045,Omalur Toll Plaza,3,0,0,0,3
+TN028,Kurungudi,3,1,2,0,2
+TN021,Kariyamanglam Toll Plaza,3,0,3,0,3
+TN015,IVRCL Chengapally Tollways Limited (Kaniyur),3,2,1,0,1
+TN047,Pallikonda Toll Plaza,3,2,0,0,1
+TN076,Vaiguntham Toll Plaza,3,2,1,0,1
+TN055,Pudur Toll Plaza,3,0,2,1,2
+TN062,Sengurichi Toll Plaza,3,2,1,0,0
+TN086,Vennathur Toll Plaza,3,1,1,2,1
+TN080,Vaniyambadi Toll Plaza,3,0,0,1,2
+TN088,Vikravandi,2,2,0,0,0
+TN003,Bogalur,2,1,1,0,1
+TN037,Mettupatti Plaza,2,1,0,0,1
+TN039,Naglikondan Toll Plaza,2,0,2,0,2
+TN031,Lembalakudi,2,2,0,0,0
+TN026,Kozhinjiipatti Plaza,2,1,0,0,1
+TN022,Keezhkuppam Toll Plaza,2,1,1,0,1
+TN020,Karagadahalli Toll Plaza,2,1,1,1,1
+TN007,Chittampatti Toll Plaza,2,2,0,0,0
+TN014,H. Pudhupatti,2,0,2,0,1
+TN025,Kovilvenni Toll Plaza,2,0,2,0,2
+TN085,Vembukudi,2,0,2,0,2
+TN082,Velampatti fee plaza,2,0,2,0,2
+TN057,Rasampalayam Plaza,2,0,0,0,2
+TN034,Manambadi,2,0,2,0,2
+TN040,Nallur Toll Plaza,2,1,0,0,1
+TN052,Pongalur,2,0,2,0,2
+TN060,Samayapuram Toll Plaza,2,2,0,0,0
+TN001,Ammapettai Toll Plaza,1,0,1,0,1
+TN011,Etturvattam Toll Plaza,1,1,0,0,0
+TN005,Chatrapatti Toll Plaza,1,0,0,0,1
+TN012,Gangarampalayam Toll Plaza,1,0,1,0,1
+TN013,GomangalamPuthur Toll Plaza,1,1,0,1,0
+TN017,Kadhavani Toll Plaza,1,0,1,0,1
+TN019,Kappalur,1,1,0,0,0
+TN023,Kodikottai Toll Plaza,1,0,1,0,1
+TN041,Nanguneri Toll Plaza,1,1,0,0,0
+TN027,Krishnagiri Plaza,1,0,1,0,1
+TN030,Lechchumanapatti,1,1,0,0,0
+TN029,L&T Krishnagiri Thopur Toll Plaza(Palayam),1,1,0,0,0
+TN048,Paranur,1,0,1,0,0
+TN042,Nathakkarai Plaza,1,1,0,0,0
+TN054,Ponnambalapatti Plaza,1,1,0,0,0
+TN059,Salaipudur,1,1,0,0,0
+TN065,Surapattu,1,0,0,0,1
+TN064,Sriperumbudur,1,0,1,0,1
+TN063,Shenbagampettai toll plaza,1,1,0,0,0
+TN075,Vagaikulam,1,0,1,0,0
+TN078,Vallam Toll Plaza,1,0,1,0,0
+TN084,Vellar,1,0,1,0,1
+TN081,Veeracholapuram Plaza,1,1,0,0,0
+TN083,Velanchettiyur,1,1,0,0,0

@@ -1,0 +1,8 @@
+ANOMALY_TYPE,COUNT
+None,3439
+High Traffic,51
+Low Traffic + Low Revenue,49
+Low Revenue,32
+High Revenue,19
+Low Traffic,13
+High Traffic + High Revenue,5

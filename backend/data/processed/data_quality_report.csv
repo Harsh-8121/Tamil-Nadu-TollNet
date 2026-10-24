@@ -1,0 +1,14 @@
+CHECK,COUNT,DESCRIPTION
+ORIGINAL_ROWS,3608,Rows loaded from Tamil Nadu dataset
+DUPLICATE_ROWS,0,Exact duplicate rows found
+ROWS_AFTER_DUPLICATE_REMOVAL,3608,Rows remaining after removing exact duplicates
+COUNT_MISMATCH_ROWS,0,TOTAL_CNT differs from vehicle category count sum
+COUNT_VALIDATION_UNAVAILABLE,49,Rows where count validation could not be performed
+REVENUE_MISMATCH_ROWS,27,TOTAL_AMT differs from vehicle category revenue sum
+REVENUE_VALIDATION_UNAVAILABLE,52,Rows where revenue validation could not be performed
+NEGATIVE_NUMERIC_VALUES,0,Total negative numeric values
+INVALID_YEAR_ROWS,0,Rows with invalid project year
+INVALID_MONTH_ROWS,0,Rows with invalid month number
+MISSING_PLAZA_ID,0,Rows with missing plaza ID
+MISSING_PLAZA_NAME,0,Rows with missing plaza name
+MISSING_DATE,0,Rows with missing or invalid date

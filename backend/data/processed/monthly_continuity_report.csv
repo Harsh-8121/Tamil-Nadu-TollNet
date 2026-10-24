@@ -1,0 +1,89 @@
+PLAZA_ID,PLAZA_NAME,AVAILABLE_MONTHS,MISSING_MONTH_COUNT,MISSING_MONTHS,CONTINUOUS_HISTORY
+TN001,Ammapettai Toll Plaza,4,0,,True
+TN002,Athur Toll Plaza,56,0,,True
+TN003,Bogalur,56,0,,True
+TN004,Boothakudi,56,0,,True
+TN005,Chatrapatti Toll Plaza,33,0,,True
+TN006,Chennasamaduram Toll Plaza,56,0,,True
+TN007,Chittampatti Toll Plaza,56,0,,True
+TN008,Elliyarpathy,56,0,,True
+TN009,Elurpatti Toll Plaza,3,0,,True
+TN010,Enamkariyandal Toll Plaza,49,6,"2022-03, 2022-04, 2022-05, 2022-06, 2022-07, 2022-08",False
+TN011,Etturvattam Toll Plaza,56,0,,True
+TN012,Gangarampalayam Toll Plaza,19,0,,True
+TN013,GomangalamPuthur Toll Plaza,2,0,,True
+TN014,H. Pudhupatti,14,0,,True
+TN015,IVRCL Chengapally Tollways Limited (Kaniyur),56,0,,True
+TN016,Ilavankulam Toll Plaza,2,0,,True
+TN017,Kadhavani Toll Plaza,22,0,,True
+TN018,Kallakudi Toll plaza,51,4,"2022-03, 2022-04, 2022-05, 2022-08",False
+TN019,Kappalur,56,0,,True
+TN020,Karagadahalli Toll Plaza,19,0,,True
+TN021,Kariyamanglam Toll Plaza,24,0,,True
+TN022,Keezhkuppam Toll Plaza,55,0,,True
+TN023,Kodikottai Toll Plaza,51,4,"2022-03, 2022-04, 2022-05, 2022-08",False
+TN024,Kothattai,21,0,,True
+TN025,Kovilvenni Toll Plaza,22,0,,True
+TN026,Kozhinjiipatti Plaza,56,0,,True
+TN027,Krishnagiri Plaza,56,0,,True
+TN028,Kurungudi,26,0,,True
+TN029,L&T Krishnagiri Thopur Toll Plaza(Palayam),56,0,,True
+TN030,Lechchumanapatti,56,0,,True
+TN031,Lembalakudi,56,0,,True
+TN032,Madukkarai,16,16,"2024-03, 2024-05, 2024-06, 2024-07, 2024-08, 2024-09, 2024-10, 2024-11, 2024-12, 2025-01, 2025-02, 2025-03, 2025-04, 2025-05, 2025-06, 2025-07",False
+TN033,Managethi Toll Plaza,52,3,"2022-03, 2022-04, 2022-08",False
+TN034,Manambadi,14,0,,True
+TN035,Manavasi Plaza,56,0,,True
+TN036,Mathur Toll Plaza,47,9,"2025-09, 2025-10, 2025-11, 2025-12, 2026-01, 2026-02, 2026-03, 2026-04, 2026-05",False
+TN037,Mettupatti Plaza,56,0,,True
+TN038,Nagampatti Toll Plaza,24,0,,True
+TN039,Naglikondan Toll Plaza,24,0,,True
+TN040,Nallur Toll Plaza,56,0,,True
+TN041,Nanguneri Toll Plaza,56,0,,True
+TN042,Nathakkarai Plaza,56,0,,True
+TN043,Nathampatti Toll Plaza,3,0,,True
+TN044,Neelambur,3,1,2024-03,False
+TN045,Omalur Toll Plaza,56,0,,True
+TN046,Palaya Gandharvakottai,56,0,,True
+TN047,Pallikonda Toll Plaza,56,0,,True
+TN048,Paranur,56,0,,True
+TN049,Pattarai Toll Plaza,56,0,,True
+TN050,Pollachi Cochin Toll Plaza,3,1,2024-03,False
+TN051,Pollachi Salem Toll Plaza,3,1,2024-03,False
+TN052,Pongalur,10,0,,True
+TN053,Ponnalagaram Toll Plaza,50,5,"2022-03, 2022-04, 2022-05, 2022-06, 2022-08",False
+TN054,Ponnambalapatti Plaza,56,0,,True
+TN055,Pudur Toll Plaza,32,6,"2023-08, 2023-09, 2023-10, 2023-11, 2023-12, 2024-01",False
+TN056,Pudurpandiyapuram,56,0,,True
+TN057,Rasampalayam Plaza,56,0,,True
+TN058,S.V Puram Toll Plaza,56,0,,True
+TN059,Salaipudur,56,0,,True
+TN060,Samayapuram Toll Plaza,56,0,,True
+TN061,Seliyamedu Toll Plaza,8,0,,True
+TN062,Sengurichi Toll Plaza,56,0,,True
+TN063,Shenbagampettai toll plaza,56,0,,True
+TN064,Sriperumbudur,56,0,,True
+TN065,Surapattu,56,0,,True
+TN066,Thennamadevi Toll Plaza,49,6,"2022-03, 2022-04, 2022-05, 2022-06, 2022-07, 2022-08",False
+TN067,Thirumandurai Toll Plaza,56,0,,True
+TN068,Thiruparaithurai Plaza,56,0,,True
+TN069,Thirupathisaram Toll Plaza,48,7,"2022-03, 2022-04, 2022-05, 2022-06, 2022-07, 2022-08, 2022-09",False
+TN070,Thuvakudi Plaza,3,26,"2024-06, 2024-07, 2024-08, 2024-09, 2024-10, 2024-11, 2024-12, 2025-01, 2025-02, 2025-03, 2025-04, 2025-05, 2025-06, 2025-07, 2025-08, 2025-09, 2025-10, 2025-11, 2025-12, 2026-01, 2026-02, 2026-03, 2026-04, 2026-05, 2026-06, 2026-07",False
+TN071,Tirupachethi,56,0,,True
+TN072,Trichy Cochin,3,1,2024-03,False
+TN073,Trichy Salem,3,1,2024-03,False
+TN074,Upparpatti,48,7,"2022-03, 2022-04, 2022-05, 2022-06, 2022-07, 2022-08, 2022-09",False
+TN075,Vagaikulam,56,0,,True
+TN076,Vaiguntham Toll Plaza,56,0,,True
+TN077,Valavanthankottai,56,0,,True
+TN078,Vallam Toll Plaza,49,6,"2022-03, 2022-04, 2022-05, 2022-06, 2022-07, 2022-08",False
+TN079,Vanagaram Toll Plaza,56,0,,True
+TN080,Vaniyambadi Toll Plaza,56,0,,True
+TN081,Veeracholapuram Plaza,56,0,,True
+TN082,Velampatti fee plaza,22,0,,True
+TN083,Velanchettiyur,56,0,,True
+TN084,Vellar,4,0,,True
+TN085,Vembukudi,20,0,,True
+TN086,Vennathur Toll Plaza,51,4,"2022-03, 2022-04, 2022-05, 2022-08",False
+TN087,Vijayamangalam Toll Plaza,56,0,,True
+TN088,Vikravandi,56,0,,True

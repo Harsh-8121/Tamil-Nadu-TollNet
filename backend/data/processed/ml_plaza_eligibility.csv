@@ -1,0 +1,89 @@
+PLAZA_ID,PLAZA_NAME,ML_ELIGIBLE,REASON
+TN001,Ammapettai Toll Plaza,False,Insufficient continuous history for 3-month lag features
+TN002,Athur Toll Plaza,True,Sufficient historical data
+TN003,Bogalur,True,Sufficient historical data
+TN004,Boothakudi,True,Sufficient historical data
+TN005,Chatrapatti Toll Plaza,True,Sufficient historical data
+TN006,Chennasamaduram Toll Plaza,True,Sufficient historical data
+TN007,Chittampatti Toll Plaza,True,Sufficient historical data
+TN008,Elliyarpathy,True,Sufficient historical data
+TN009,Elurpatti Toll Plaza,False,Insufficient continuous history for 3-month lag features
+TN010,Enamkariyandal Toll Plaza,True,Sufficient historical data
+TN011,Etturvattam Toll Plaza,True,Sufficient historical data
+TN012,Gangarampalayam Toll Plaza,True,Sufficient historical data
+TN013,GomangalamPuthur Toll Plaza,False,Insufficient continuous history for 3-month lag features
+TN014,H. Pudhupatti,True,Sufficient historical data
+TN015,IVRCL Chengapally Tollways Limited (Kaniyur),True,Sufficient historical data
+TN016,Ilavankulam Toll Plaza,False,Insufficient continuous history for 3-month lag features
+TN017,Kadhavani Toll Plaza,True,Sufficient historical data
+TN018,Kallakudi Toll plaza,True,Sufficient historical data
+TN019,Kappalur,True,Sufficient historical data
+TN020,Karagadahalli Toll Plaza,True,Sufficient historical data
+TN021,Kariyamanglam Toll Plaza,True,Sufficient historical data
+TN022,Keezhkuppam Toll Plaza,True,Sufficient historical data
+TN023,Kodikottai Toll Plaza,True,Sufficient historical data
+TN024,Kothattai,True,Sufficient historical data
+TN025,Kovilvenni Toll Plaza,True,Sufficient historical data
+TN026,Kozhinjiipatti Plaza,True,Sufficient historical data
+TN027,Krishnagiri Plaza,True,Sufficient historical data
+TN028,Kurungudi,True,Sufficient historical data
+TN029,L&T Krishnagiri Thopur Toll Plaza(Palayam),True,Sufficient historical data
+TN030,Lechchumanapatti,True,Sufficient historical data
+TN031,Lembalakudi,True,Sufficient historical data
+TN032,Madukkarai,True,Sufficient historical data
+TN033,Managethi Toll Plaza,True,Sufficient historical data
+TN034,Manambadi,True,Sufficient historical data
+TN035,Manavasi Plaza,True,Sufficient historical data
+TN036,Mathur Toll Plaza,True,Sufficient historical data
+TN037,Mettupatti Plaza,True,Sufficient historical data
+TN038,Nagampatti Toll Plaza,True,Sufficient historical data
+TN039,Naglikondan Toll Plaza,True,Sufficient historical data
+TN040,Nallur Toll Plaza,True,Sufficient historical data
+TN041,Nanguneri Toll Plaza,True,Sufficient historical data
+TN042,Nathakkarai Plaza,True,Sufficient historical data
+TN043,Nathampatti Toll Plaza,False,Insufficient continuous history for 3-month lag features
+TN044,Neelambur,False,Insufficient continuous history for 3-month lag features
+TN045,Omalur Toll Plaza,True,Sufficient historical data
+TN046,Palaya Gandharvakottai,True,Sufficient historical data
+TN047,Pallikonda Toll Plaza,True,Sufficient historical data
+TN048,Paranur,True,Sufficient historical data
+TN049,Pattarai Toll Plaza,True,Sufficient historical data
+TN050,Pollachi Cochin Toll Plaza,False,Insufficient continuous history for 3-month lag features
+TN051,Pollachi Salem Toll Plaza,False,Insufficient continuous history for 3-month lag features
+TN052,Pongalur,True,Sufficient historical data
+TN053,Ponnalagaram Toll Plaza,True,Sufficient historical data
+TN054,Ponnambalapatti Plaza,True,Sufficient historical data
+TN055,Pudur Toll Plaza,True,Sufficient historical data
+TN056,Pudurpandiyapuram,True,Sufficient historical data
+TN057,Rasampalayam Plaza,True,Sufficient historical data
+TN058,S.V Puram Toll Plaza,True,Sufficient historical data
+TN059,Salaipudur,True,Sufficient historical data
+TN060,Samayapuram Toll Plaza,True,Sufficient historical data
+TN061,Seliyamedu Toll Plaza,True,Sufficient historical data
+TN062,Sengurichi Toll Plaza,True,Sufficient historical data
+TN063,Shenbagampettai toll plaza,True,Sufficient historical data
+TN064,Sriperumbudur,True,Sufficient historical data
+TN065,Surapattu,True,Sufficient historical data
+TN066,Thennamadevi Toll Plaza,True,Sufficient historical data
+TN067,Thirumandurai Toll Plaza,True,Sufficient historical data
+TN068,Thiruparaithurai Plaza,True,Sufficient historical data
+TN069,Thirupathisaram Toll Plaza,True,Sufficient historical data
+TN070,Thuvakudi Plaza,False,Insufficient continuous history for 3-month lag features
+TN071,Tirupachethi,True,Sufficient historical data
+TN072,Trichy Cochin,False,Insufficient continuous history for 3-month lag features
+TN073,Trichy Salem,False,Insufficient continuous history for 3-month lag features
+TN074,Upparpatti,True,Sufficient historical data
+TN075,Vagaikulam,True,Sufficient historical data
+TN076,Vaiguntham Toll Plaza,True,Sufficient historical data
+TN077,Valavanthankottai,True,Sufficient historical data
+TN078,Vallam Toll Plaza,True,Sufficient historical data
+TN079,Vanagaram Toll Plaza,True,Sufficient historical data
+TN080,Vaniyambadi Toll Plaza,True,Sufficient historical data
+TN081,Veeracholapuram Plaza,True,Sufficient historical data
+TN082,Velampatti fee plaza,True,Sufficient historical data
+TN083,Velanchettiyur,True,Sufficient historical data
+TN084,Vellar,False,Insufficient continuous history for 3-month lag features
+TN085,Vembukudi,True,Sufficient historical data
+TN086,Vennathur Toll Plaza,True,Sufficient historical data
+TN087,Vijayamangalam Toll Plaza,True,Sufficient historical data
+TN088,Vikravandi,True,Sufficient historical data

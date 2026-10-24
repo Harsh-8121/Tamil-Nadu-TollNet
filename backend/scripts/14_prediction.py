@@ -3635,8 +3635,8 @@ print("Swagger UI:")
 print("  http://127.0.0.1:8000/docs")
 print("=" * 70)
 
-
 if __name__ == "__main__":
+    import os
     import uvicorn
 
     uvicorn.run(

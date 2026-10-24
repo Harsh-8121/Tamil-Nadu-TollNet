@@ -1,4 +1,8 @@
-
-streamlit
+fastapi
+uvicorn
 pandas
-plotly
+numpy
+joblib
+scikit-learn
+xgboost
+lightgbm
